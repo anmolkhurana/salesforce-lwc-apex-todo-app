@@ -7,6 +7,6 @@ This app is utilizes full strength of salesforce lightning components and it's i
 ### This todo App brings in 3 features:
 1. Add a Todo task
 2. Delete a Todo Task
-3. Refresh the Todo List UI list when ever there's any changes in the server
+3. Refresh the Todo List when ever there's any changes in the server so as to sync UI and Server without a page reload
 
 Components are build using LWC and backend controllers are Apex classes.
