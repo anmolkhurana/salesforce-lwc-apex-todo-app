@@ -1,6 +1,6 @@
 # Salesforce Todo App
 
-This app is utilizes full strength of salesforce lightning components and it's interations with the apex controller
+This app utilizes full strength of salesforce lightning components and it's interations with the apex controller
 
 <img width="293" alt="Screen Shot 2021-06-03 at 7 36 24 PM" src="https://user-images.githubusercontent.com/25680227/120658383-0656d780-c4a3-11eb-8c7f-0fd6342925ca.png">
 
